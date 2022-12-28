@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notification_FirebaseCloud</string>
+    <string name="channel_name">my_channel</string>
+    <string name="channel_description">my_channel_description</string>
+</resources>
